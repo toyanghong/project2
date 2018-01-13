@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "antd": "^3.1.0",
+    "koa": "^2.4.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "koa webpack redux redux-saga",
+  "main": "app.js",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-import": "^1.6.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2015-loose": "^8.0.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "bundle-loader": "^0.5.5",
+    "clean-webpack-plugin": "^0.1.17",
+    "css-loader": "^0.28.8",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "koa": "^2.4.1",
+    "koa-static": "^4.0.2",
+    "koa-webpack-middleware": "^1.0.7",
+    "less": "^2.3.1",
+    "less-loader": "^4.0.5",
+    "moment": "^2.20.1",
+    "react-hot-loader": "^4.0.0-beta.12",
+    "react-loadable": "^5.3.1",
+    "style-loader": "^0.19.1",
+    "uglify-js-es6": "^2.8.9",
+    "uglifyjs-webpack-plugin": "^1.0.0-rc.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7",
+    "webpack-md5-hash": "^0.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "yh",
+  "license": "ISC"
+}
