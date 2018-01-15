@@ -9,7 +9,7 @@ const main = serve(path.join(__dirname));
 console.log(path.join(__dirname));
 app.use(main);
 
-app.listen(3000);
+app.listen(80);
 console.log('app started at port 3000...');
  
 //tijiao3333谔谔谔谔gai yixia 44444

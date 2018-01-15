@@ -246,7 +246,7 @@ module.exports = {
     devServer: {
         hot: true,
         host: 'localhost',
-        port: 3000,
+        port: 80,
         contentBase: './dist', // 本地服务器所加载的页面所在的目录
     }
 };

@@ -18,7 +18,7 @@ import  RouterMap  from './test2.js';
 // import { Other } from 'bundle-loader?lazy&name=admin!./c.js';
 
 import Loadable from 'react-loadable';
-import Loading from './loading.js';
+// import Loading from './loading.js';
 // import { Bundle } from './print.js';
 
 import createHistory from 'history/createBrowserHistory';
